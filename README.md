@@ -1,0 +1,2 @@
+# cdn
+private images folder
